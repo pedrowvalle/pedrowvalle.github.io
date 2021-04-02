@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Estudo tridimensional da célula de Agger Nasi e suas correlações com alterações/variações anatômicas e patológicas dos seios paranasais
+title:            Catharina Simioni De Rosa
 tagline:          'A Jekyll theme'
-description:      'Projeto apresentado à Faculdade de Odontologia da Universidade de São Paulo, para exame de qualificação de doutorado, pelo Programa de Pós-Graduação em Ciências Odontológicas.'
+description:      'Exame de qualificação de doutorado - Programa de Pós-Graduação em Ciências Odontológicas.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
