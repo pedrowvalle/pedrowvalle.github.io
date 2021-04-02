@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Estudo tridimensional da célula de Agger Nasi e suas correlações com alterações/variações anatômicas e patológicas dos seios paranasais
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Projeto apresentado à Faculdade de Odontologia da Universidade de São Paulo, para exame de qualificação de doutorado, pelo Programa de Pós-Graduação em Ciências Odontológicas.
+
+DAQUI PRA BAIXO NÃO ARRUMEI NADA, TÁ COPY PASTE 
 
 ### Built on Poole
 
