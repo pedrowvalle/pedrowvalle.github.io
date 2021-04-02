@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
+title:            Estudo tridimensional da célula de Agger Nasi e suas correlações com alterações/variações anatômicas e patológicas dos seios paranasais
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Projeto apresentado à Faculdade de Odontologia da Universidade de São Paulo, para exame de qualificação de doutorado, pelo Programa de Pós-Graduação em Ciências Odontológicas.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
