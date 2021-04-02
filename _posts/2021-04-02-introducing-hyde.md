@@ -5,7 +5,7 @@ title: Estudo tridimensional da célula de Agger Nasi e suas correlações com a
 
 Projeto apresentado à Faculdade de Odontologia da Universidade de São Paulo, para exame de qualificação de doutorado, pelo Programa de Pós-Graduação em Ciências Odontológicas.
 
-![] (images/teste.jpeg)
+![imagem teste] (images/teste.jpg)
 
 DAQUI PRA BAIXO NÃO ARRUMEI NADA, TÁ COPY PASTE 
 
